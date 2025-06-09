@@ -1,33 +1,27 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stephen Mathew Perez
-============================================================================================================================================
-
-Information Technology Student
-------------------------------
-
-As a BSIT student at Polytechnic University of the Philippines Binan Campus, I'm deeply engaged in web development. I'm not just learning in the classroom; I'm also a project manager and developer in a group, gaining real-world experience in coding and teamwork. Surrounded by supportive peers and instructors, I'm continually improving my skills through hands-on projects and workshops. I'm excited to contribute to innovative projects and make a positive impact in the tech industry as I continue my journey in web development.
-
-* 🌍  I'm based in Biñan City, Laguna
-* ✉️  You can contact me at [officialstephenperez09@gmail.com](mailto:officialstephenperez09@gmail.com)
-* 🧠  I'm learning Web Development
-
-### Skills
+# 💫 About Me:
+🔭 I’m currently working as IT Project Manager in corporate world but Software Developer by ❤️<br>👯 I’m looking to collaborate on Web and Mobile Development Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning deep learning in Dart <br>💬 Ask me about project management and developments<br>⚡ Fun fact: nothing
 
 
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/perezstephen09/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/stphnprz09/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/stephenperez09/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stephen.perez@exceed.agency) 
 
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Stphnprz09&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Stphnprz09&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stphnprz09&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Socials
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Stphnprz09&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> <a href="https://www.facebook.com/perezstephen09/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Stphnprz09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/stphnprz09/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Badges
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Stphnprz09&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
-<b>My GitHub Stats</b>
+---
+[![](https://visitcount.itsvg.in/api?id=Stphnprz09&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<a href="http://www.github.com/Stphnprz09"><img src="https://github-readme-stats.vercel.app/api?username=Stphnprz09&show_icons=true&hide=issues,&title_color=000000&text_color=000000&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="Stphnprz09's GitHub stats" /></a>
-
-<a href="http://www.github.com/Stphnprz09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Stphnprz09&stroke=000000&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<a href="https://github.com/Stphnprz09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stphnprz09&langs_count=10&title_color=000000&text_color=000000&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
